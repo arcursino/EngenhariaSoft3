@@ -1,3 +1,3 @@
 # Listas da matéria Engenharia de Software 3
 Componentes do Grupo:
-Ariana Cursino e Márcio Ordonez
+Ariana Cursino, Bianca Tuchtler e Márcio Ordonez
