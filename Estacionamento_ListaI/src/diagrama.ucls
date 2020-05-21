@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="br.com.fatec.Veiculo" project="Estacionamento_ListaI" 
+    file="/Estacionamento_ListaI/src/br/com/fatec/Veiculo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="300" y="343"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="br.com.fatec.Passeio" project="Estacionamento_ListaI" 
+    file="/Estacionamento_ListaI/src/br/com/fatec/Passeio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="218" y="501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="br.com.fatec.CalculoValor" project="Estacionamento_ListaI" 
+    file="/Estacionamento_ListaI/src/br/com/fatec/CalculoValor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="694" y="346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="br.com.fatec.ContaEstacionamento" project="Estacionamento_ListaI" 
+    file="/Estacionamento_ListaI/src/br/com/fatec/ContaEstacionamento.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="616" y="159"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="br.com.fatec.ValorMensal" project="Estacionamento_ListaI" 
+    file="/Estacionamento_ListaI/src/br/com/fatec/ValorMensal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="557" y="557"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="br.com.fatec.ValorDiaria" project="Estacionamento_ListaI" 
+    file="/Estacionamento_ListaI/src/br/com/fatec/ValorDiaria.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="766" y="559"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="br.com.fatec.Carga" project="Estacionamento_ListaI" 
+    file="/Estacionamento_ListaI/src/br/com/fatec/Carga.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="364" y="501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="br.com.fatec.ValorHora" project="Estacionamento_ListaI" 
+    file="/Estacionamento_ListaI/src/br/com/fatec/ValorHora.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="975" y="560"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="br.com.fatec.Principal" project="Estacionamento_ListaI" 
+    file="/Estacionamento_ListaI/src/br/com/fatec/Principal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="244" y="66"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="10">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="13">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <association id="14">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="15" name="veiculo"/>      
+      <multiplicity id="16" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="17">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="18" name="calculo"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="20">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
