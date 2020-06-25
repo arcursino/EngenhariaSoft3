@@ -33,7 +33,7 @@ public class AnimalBuilder {
 		return this;
 	}
 	
-	public AnimalBuilder id (CreateId id) {
+	public AnimalBuilder id (String id) {
 		animal.setId(id);
 		return this;
 	}

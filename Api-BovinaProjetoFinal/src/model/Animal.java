@@ -8,7 +8,7 @@ public abstract class Animal {
 	private Raca raca;
 	private String genero;
 	private Date dataNasc;
-	private CreateId id;
+	private String id;
 	private CarteiraVacina vacina;
 	private float quilos;
 	private float arrobas;
@@ -36,11 +36,11 @@ public abstract class Animal {
 		this.dataNasc = dataNasc;
 	}
 	
-	public CreateId getId() {
+	public String getId() {
 		return id;
 	}
 	
-	public void setId(CreateId id) {
+	public void setId(String id) {
 		this.id = id;
 	}
 	
